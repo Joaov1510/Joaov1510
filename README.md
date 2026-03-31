@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Vitor Ferreira, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNISENAC-RS. Sou apaixonado por tecnologia.
+Me chamo João Vitor Ferreira, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNISENAC-RS. Sou aficionado em tecnologia.
 
 ---
 
